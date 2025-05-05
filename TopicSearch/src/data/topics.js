@@ -1,4 +1,4 @@
-// src/data/topics.js
+
 const topics = [
   { id: 1, name: "Thermodynamics", category: "Physics" },
   { id: 2, name: "Algebra", category: "Mathematics" },

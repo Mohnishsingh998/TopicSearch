@@ -1,4 +1,4 @@
-// src/components/TopicSearch.jsx
+
 import React, { useState } from 'react';
 import topics from '../data/topics';
 
