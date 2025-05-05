@@ -14,19 +14,19 @@ This is a simple topic search application built using **React** and **Vite**. It
 ---
 
 ## 📁 Folder Structure
-📂 TOPICSEARCH
-┣ 📂 public
-┃ ┗ 📜 index.html
-┣ 📂 src
-┃ ┣ 📂 components
-┃ ┃ ┗ 📜 TopicSearch.jsx
-┃ ┣ 📂 data
-┃ ┃ ┗ 📜 topics.js
-┃ ┣ 📂 styles
-┃ ┃ ┗ 📜 TopicSearch.css
-┃ ┣ 📜 App.jsx
-┃ ┗ 📜 main.jsx
-┣ 📂 video
-┃ ┗ 📜 explanation.mp4
-┣ 📜 README.md
-┗ 📜 vite.config.js
+📂 TOPICSEARCH \
+┣ 📂 public \
+┃ ┗ 📜 index.html \
+┣ 📂 src \
+┃ ┣ 📂 components \
+┃ ┃ ┗ 📜 TopicSearch.jsx \
+┃ ┣ 📂 data \
+┃ ┃ ┗ 📜 topics.js \
+┃ ┣ 📂 styles \
+┃ ┃ ┗ 📜 TopicSearch.css \
+┃ ┣ 📜 App.jsx \
+┃ ┗ 📜 main.jsx \
+┣ 📂 video \
+┃ ┗ 📜 explanation.mp4 \
+┣ 📜 README.md \
+┗ 📜 vite.config.js \
